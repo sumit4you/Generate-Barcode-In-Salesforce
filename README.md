@@ -1,8 +1,8 @@
-# 2D-Barcode In Salesforce
+# Generate Barcode(free) In Salesforce
 
-In this article, we have used  2D-128B modal(Code Set B) Barcode, with the help of www.bcgen.com.
+In this article, we have used 2D-128B modal Barcode, with the help of www.bcgen.com.
 
-For generating the barcode we have to create below components in our Salesforce instance.
+For generating the barcode we have to create below components in your Salesforce instance.
 
 Steps 1: Create formula field
 
