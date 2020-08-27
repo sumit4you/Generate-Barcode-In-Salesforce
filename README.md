@@ -1,4 +1,4 @@
-# Generate Barcode(free) In Salesforce
+# Generate Barcode In Salesforce
 
 In this article, we have used 2D-128B modal Barcode, with the help of www.bcgen.com.
 
